@@ -222,6 +222,8 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [react-redux-loading-bar](https://github.com/mironov/react-redux-loading-bar) - Simple Loading Bar for Redux and React.
 - [react-spinkit](https://github.com/KyleAMathews/react-spinkit) - A collection of loading indicators animated with CSS for React.
 - [react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
+- [react-spinners](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
+- [react-content-loader](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings (like Facebook's cards loading).
 
 ### Carousel
 
